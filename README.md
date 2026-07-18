@@ -33,7 +33,7 @@
 
 ```bash
 # 克隆项目
-git clone https://github.com/Huatin-Nice/GoStreamProxy.git
+git clone https://github.com/HaTin/GoStreamProxy.git
 cd GoStreamProxy
 
 # 编译
