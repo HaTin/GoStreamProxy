@@ -478,8 +478,6 @@ GoStreamProxy/
 ├── main.go           # 主程序（全部逻辑）
 ├── config.json       # 配置文件
 ├── routes.json       # 路由映射配置
-├── go.mod            # Go 模块定义
-├── .gitignore        # Git 忽略规则
 └── README.md         # 本文档
 ```
 
@@ -491,7 +489,7 @@ GoStreamProxy/
 
 ```bash
 # Fork 并克隆
-git clone https://github.com/your-username/GoStreamProxy.git
+git clone https://github.com/HaTin/GoStreamProxy.git
 cd GoStreamProxy
 
 # 创建分支
